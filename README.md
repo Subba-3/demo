@@ -8,3 +8,5 @@ hello from techsoc
 today date is 02-02-2026
 <br>
 okay now this is the last change im doing in this demo project this is the end
+<br>
+bye bye for today
